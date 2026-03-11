@@ -188,9 +188,7 @@ The project has been featured on **GitHub Trending** and is used by thousands of
 
 ## Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section is auto-updated by a GitHub Action -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code /btw: The Usefull Side Question That Changed How I Use Context](https://alirezarezvani.medium.com/claude-code-btw-the-usefull-side-question-that-changed-how-i-use-context-d30ddea4aa2d?source=rss-b66488794c91------2) — 011 D, YYYY- [AI &amp; Claude Code Review: 3 Tiers, Real Costs, One Decision](https://alirezarezvani.medium.com/ai-claude-code-review-3-tiers-real-costs-one-decision-5b33ee4a1b95?source=rss-b66488794c91------2) — 011 D, YYYY- [Claude Code /loop — Here Are 3 Autonomous Loops For My Daily Work!](https://alirezarezvani.medium.com/claude-code-loop-here-are-3-autonomous-loops-for-my-daily-work-f571c61ff9b5?source=rss-b66488794c91------2) — 3838 D, YYYY- [Claude Skill Eval Framework: 3 Skills, One Afternoon, Real Data](https://alirezarezvani.medium.com/claude-skill-eval-framework-3-skills-one-afternoon-real-data-5b43e06182cb?source=rss-b66488794c91------2) — 011 D, YYYY- [OpenClaw: The Practical Guide to Building an AI That Actually Can Run Your Work and Business](https://alirezarezvani.medium.com/openclaw-the-practical-guide-to-building-an-ai-that-actually-can-run-your-work-and-business-3587dd4aa22b?source=rss-b66488794c91------2) — 011 D, YYYY<!-- BLOG-POST-LIST:END -->
 
 I write regularly about AI-assisted development, Claude Code workflows, and building with agents:
 
