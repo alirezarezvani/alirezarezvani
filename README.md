@@ -3,12 +3,14 @@
   GitHub: https://github.com/alirezarezvani
   Website: https://alirezarezvani.com
   Medium: https://alirezarezvani.medium.com
+  Location: Berlin, Germany
+  Focus: AI-assisted development, Claude Code, agentic workflows, developer tooling
 -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=230&section=header&text=Alireza%20Rezvani&fontSize=50&fontColor=36BCF7&fontAlignY=35&desc=CTO%20%C2%B7%20AI%20Engineer%20%C2%B7%20Open%20Source%20Creator&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+developers;6%2C000%2B+GitHub+stars+across+projects;4%2C700%2B+Medium+followers;22%2B+years+in+engineering+leadership;Open+source+contributor+from+Berlin" alt="Alireza Rezvani — CTO, AI Engineer, Open Source Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+developers;6%2C000%2B+GitHub+stars+across+projects;4%2C700%2B+Medium+followers;22%2B+years+in+engineering+leadership;Open+source+contributor+from+Berlin" alt="Alireza Rezvani — CTO, AI Engineer, Open Source Creator based in Berlin" />
 </div>
 
 <p align="center">
@@ -29,35 +31,87 @@ When I'm not coding, I write about AI engineering and agentic development on [Me
 
 ---
 
-## Open Source Projects
+## Claude Code Skills — The Largest Open Source Skill Collection for AI Coding Agents
 
-> These are the projects I maintain. All open source, all built to solve real problems.
+<div align="center">
+
+[![claude-skills](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge&label=Stars&color=FFD700)](https://github.com/alirezarezvani/claude-skills)
+[![forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=for-the-badge&label=Forks&color=blue)](https://github.com/alirezarezvani/claude-skills/fork)
+[![contributors](https://img.shields.io/github/contributors/alirezarezvani/claude-skills?style=for-the-badge&label=Contributors&color=green)](https://github.com/alirezarezvani/claude-skills/graphs/contributors)
+
+</div>
+
+**[claude-skills](https://github.com/alirezarezvani/claude-skills)** is a collection of **180+ production-ready skills and plugins** for Claude Code, OpenAI Codex, and OpenClaw. It covers engineering, marketing, product management, compliance, C-level advisory, finance, and more.
+
+The project has been featured on **GitHub Trending** and is used by thousands of developers to extend their AI coding agents with domain-specific knowledge and automation.
+
+<div align="center">
+
+| What's inside | |
+|:---|:---|
+| **180+ skills** | Engineering, marketing, product, compliance, finance, C-level |
+| **10 agents** | Specialized AI agents for different domains |
+| **14 slash commands** | Quick-access workflows |
+| **77 Python scripts** | Automation tools and calculators |
+
+</div>
 
 <div align="center">
   <a href="https://github.com/alirezarezvani/claude-skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-skills&theme=tokyonight&hide_border=true" alt="claude-skills — 180+ production-ready skills and plugins for Claude Code, OpenAI Codex, and OpenClaw" />
+    <img src="https://img.shields.io/badge/Browse%20Skills-000000?style=for-the-badge&logo=github&logoColor=white" alt="Browse Claude Code Skills on GitHub" />
   </a>
+  <a href="https://github.com/alirezarezvani/claude-skills/wiki">
+    <img src="https://img.shields.io/badge/Documentation-2962FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="Claude Code Skills documentation" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://star-history.com/#alirezarezvani/claude-skills&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alirezarezvani/claude-skills&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alirezarezvani/claude-skills&type=Date" />
+      <img alt="Claude Code Skills star history chart showing growth over time" src="https://api.star-history.com/svg?repos=alirezarezvani/claude-skills&type=Date" width="700" />
+    </picture>
+  </a>
+</div>
+
+---
+
+## Other Open Source Projects
+
+<div align="center">
   <a href="https://github.com/alirezarezvani/claude-code-skill-factory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-skill-factory&theme=tokyonight&hide_border=true" alt="Claude Code Skill Factory — toolkit for building production-ready Claude Skills and agents" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/alirezarezvani/claude-code-tresor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-tresor&theme=tokyonight&hide_border=true" alt="Claude Code Tresor — collection of autonomous skills, expert agents, and slash commands" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/alirezarezvani/ClaudeForge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=ClaudeForge&theme=tokyonight&hide_border=true" alt="ClaudeForge — CLAUDE.md generator aligned with Anthropic best practices" />
+  </a>
+  <a href="https://github.com/alirezarezvani/claude-code-aso-skill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-aso-skill&theme=tokyonight&hide_border=true" alt="Claude Code AEO Skill — Answer Engine Optimization automation framework" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/alirezarezvani/claude-code-aso-skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-aso-skill&theme=tokyonight&hide_border=true" alt="Claude Code AEO Skill — Answer Engine Optimization automation framework" />
-  </a>
   <a href="https://github.com/alirezarezvani/claude-code-github-workflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-github-workflow&theme=tokyonight&hide_border=true" alt="Claude Code GitHub Workflow — task management and context engineering for Claude Code" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=claude-code-github-workflow&theme=tokyonight&hide_border=true" alt="Claude Code GitHub Workflow — task management and context engineering" />
   </a>
+  <a href="https://github.com/alirezarezvani/aeo-box">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alirezarezvani&repo=aeo-box&theme=tokyonight&hide_border=true" alt="AEO Box — Answer Engine Optimization framework for AI search engines" />
+  </a>
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezarezvani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Alireza Rezvani GitHub trophies — achievements for stars, commits, PRs, issues, followers, and repositories" />
 </div>
 
 ---
@@ -132,9 +186,13 @@ When I'm not coding, I write about AI engineering and agentic development on [Me
 
 ---
 
-## Writing
+## Recent Writing
 
-I write regularly about AI-assisted development, Claude Code workflows, and building with agents. A few places to find my work:
+<!-- BLOG-POST-LIST:START -->
+<!-- This section is auto-updated by a GitHub Action -->
+<!-- BLOG-POST-LIST:END -->
+
+I write regularly about AI-assisted development, Claude Code workflows, and building with agents:
 
 - [Medium](https://alirezarezvani.medium.com) — 4,700+ followers, long-form technical articles
 - [Newsletter](https://claude-code.beehiiv.com/) — Weekly on Claude Code and AI engineering
@@ -191,12 +249,6 @@ If any of these projects have helped you, I'd appreciate the support. It keeps t
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
-</div>
-
----
-
-<div align="center">
-  <p><i>Turn complex problems into simple solutions.</i></p>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
