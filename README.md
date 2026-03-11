@@ -8,7 +8,10 @@
 -->
 
 <div align="center">
-  <img alt="Alireza Rezvani — CTO, AI Engineer, and Open Source Creator based in Berlin" width="180" src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/main/assets/avatar-cartoon.png" />
+
+  # Alireza Rezvani
+
+  <img alt="Alireza Rezvani — CTO, AI Engineer, and Open Source Creator based in Berlin" width="280" src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/main/assets/avatar-cartoon.png" />
   <br /><br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CTO+%C2%B7+AI+Engineer+%C2%B7+Open+Source+Creator;Building+AI+tools+for+developers;6%2C000%2B+GitHub+stars+across+projects;4%2C700%2B+Medium+followers;22%2B+years+in+engineering+leadership;Open+source+contributor+from+Berlin" alt="Alireza Rezvani — CTO, AI Engineer, Open Source Creator based in Berlin" />
 </div>
