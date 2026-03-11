@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I build AI-powered developer tools, lead healthtech products that help elderly people move safely, and write about the future of AI-augmented development.
 
-- 🏥 **CTO @ LINDERA** — Smartphone-based mobility analysis & fall risk assessment
-- 🛠️ Creator of **[claude-skills](https://github.com/alirezarezvani/claude-skills)** — 4,100+ ⭐ | 180+ production-ready AI skills
-- ✍️ **4,700+ Medium followers** — Writing about Claude Code, AI engineering & agentic workflows
-- 🌍 Based in **Berlin, Germany**
-- 💡 Philosophy: *Turn complex problems into simple solutions*
+- **CTO @ LINDERA** — Smartphone-based mobility analysis & fall risk assessment
+- Creator of **[claude-skills](https://github.com/alirezarezvani/claude-skills)** — 4,100+ ⭐ | 180+ production-ready AI skills
+- **4,700+ Medium followers** — Writing about Claude Code, AI engineering & agentic workflows
+- Based in **Berlin, Germany**
+- Philosophy: *Turn complex problems into simple solutions*
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/alirezarezvani/claude-skills">
@@ -55,7 +55,7 @@ I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I bu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI & Agents
 <p align="left">
@@ -104,7 +104,7 @@ I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I bu
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirezarezvani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -121,7 +121,7 @@ I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I bu
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://alirezarezvani.com" target="_blank">
@@ -152,7 +152,7 @@ I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I bu
 
 ---
 
-## 💛 Support My Open Source Work
+## Support My Open Source Work
 
 If my projects have been useful to you, consider supporting my work:
 
@@ -174,8 +174,8 @@ If my projects have been useful to you, consider supporting my work:
 ---
 
 <div align="center">
-  <h4>💡 "Turn complex problems into simple solutions."</h4>
-  <p>Thanks for visiting! Let's build something great together. 🚀</p>
+  <h4>"Turn complex problems into simple solutions."</h4>
+  <p>Thanks for visiting! Let's build something great together.</p>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
