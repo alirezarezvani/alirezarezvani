@@ -60,7 +60,7 @@ The project has been featured on **GitHub Trending** and is used by thousands of
   <a href="https://github.com/alirezarezvani/claude-skills">
     <img src="https://img.shields.io/badge/Browse%20Skills-000000?style=for-the-badge&logo=github&logoColor=white" alt="Browse Claude Code Skills on GitHub" />
   </a>
-  <a href="https://github.com/alirezarezvani/claude-skills/wiki">
+  <a href="https://alirezarezvani.github.io/claude-skills/">
     <img src="https://img.shields.io/badge/Documentation-2962FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="Claude Code Skills documentation" />
   </a>
 </div>
