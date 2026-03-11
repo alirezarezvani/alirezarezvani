@@ -10,7 +10,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=230&section=header&text=Alireza%20Rezvani&fontSize=50&fontColor=36BCF7&fontAlignY=35&desc=CTO%20%C2%B7%20AI%20Engineer%20%C2%B7%20Open%20Source%20Creator&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+developers;6%2C000%2B+GitHub+stars+across+projects;4%2C700%2B+Medium+followers;22%2B+years+in+engineering+leadership;Open+source+contributor+from+Berlin" alt="Alireza Rezvani — CTO, AI Engineer, Open Source Creator based in Berlin" />
+  <table>
+    <tr>
+      <td>
+        <img align="center" alt="Alireza Rezvani cartoon avatar — CTO and AI Engineer" width="300" src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/main/assets/avatar-cartoon.png" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=440&lines=Building+AI+tools+for+developers;6%2C000%2B+GitHub+stars+across+projects;4%2C700%2B+Medium+followers;22%2B+years+in+engineering+leadership;Open+source+contributor+from+Berlin" alt="Alireza Rezvani — CTO, AI Engineer, Open Source Creator based in Berlin" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
