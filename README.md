@@ -112,12 +112,16 @@ I'm a **CTO** and **AI Engineer** with 22+ years of engineering leadership. I bu
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alirezarezvani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=alirezarezvani&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=minimal&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</picture>
 
 ---
 
