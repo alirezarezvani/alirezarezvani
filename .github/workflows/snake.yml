@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: alirezarezvani
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=36BCF7&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FFD700&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
